@@ -1,56 +1,73 @@
-🌐 Cyberpunk Password Strength Checker — Interactive Cybersecurity Tool
+# 🔐 Cyberpunk Password Strength Checker — Interactive Cybersecurity Tool
 
-Welcome to the Cyberpunk Password Strength Checker, a fun and interactive web tool designed to analyze password strength, estimate how long it would take to crack a password, and provide tips to stay safe online. This project is built with a cyberpunk neon hacker aesthetic to make learning cybersecurity fun and engaging.
+Welcome to my **Cyberpunk Password Strength Checker**, an interactive web tool that analyzes password strength, estimates crack time, and teaches best security practices — all wrapped in a **neon hacker aesthetic**.
 
-🔒 Interactive Cybersecurity Tool | Password Strength Analysis | Cyberpunk UI | Educational Resource
+> 🌌 Password Analyzer | Crack Time Estimator | Cyberpunk UI | Educational Cybersecurity Tool
 
-🚀 Live Demo
+---
 
-Try it online: https://paulkirubakaranm6.github.io/password-checker/
+## 🚀 Live Demo
 
-🛠️ Built With
-HTML5 – Structure of the page
-CSS3 – Cyberpunk-themed neon styling, glitch effects, and animations
-Vanilla JavaScript – Password analysis logic, strength meter, and crack time estimation
-Responsive Design – Works on desktop and mobile
-Cyberpunk Aesthetic – Glitch header, neon glow, animated background
-📂 Project Structure
+Try it here: [https://paulkirubakaranm6.github.io/password-checker](https://paulkirubakaranm6.github.io/password-checker/)
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3**
+- **Vanilla JavaScript**
+- **Responsive Design** with glitch effects and neon animations
+- 💻 Cyberpunk-inspired UI — neon glow, glitch headers, animated background
+
+---
+
+## 📂 Structure
+
+​```
 📁 password-checker
-    ├── index.html    # Main interactive page
-    ├── style.css     # Styling and cyberpunk animations
-    ├── script.js     # Password analysis and crack time logic
-🧠 Features
-🔐 Password Strength Analysis – Checks length, uppercase, lowercase, numbers, and symbols
-⏱️ Estimated Crack Time – Displays how long it would take to brute-force the password
-⚠️ Interactive Feedback – Provides tips to improve weak passwords
-💡 Cybersecurity Safety Tips – Learn best practices to protect your accounts
-🌌 Cyberpunk UI – Neon colors, glitch text effects, animated background
-📱 Responsive Design – Works seamlessly on mobile and desktop
-📋 How to Use
-Enter your password in the input field.
-Click “ANALYZE”.
-View the strength, feedback, and estimated crack time.
-Follow the cybersecurity tips to create a stronger password.
-💡 Cybersecurity Tips Included
-Use at least 12 characters
-Include uppercase, lowercase, numbers, and symbols
-Never reuse passwords across different accounts
-Enable two-factor authentication (2FA)
-Consider using a reputable password manager
-Be cautious of phishing attempts
-🔧 Deployment
+    ├── index.html     # Main interactive page
+    ├── style.css      # Cyberpunk styling and animations
+    └── script.js      # Password analysis and crack time logic
+​```
 
-This project is hosted via GitHub Pages:
+---
 
-Clone or download the repository
-Upload index.html, style.css, script.js to a GitHub repository
-Enable GitHub Pages in Settings → Pages → Branch: main / Folder: root
-Access the live demo at:
-https://your-username.github.io/repo-name/
-📧 Connect With Me
-🔗 Portfolio
-💼 LinkedIn
-🐙 GitHub
-🛡️ TryHackMe
+## 🧠 Features Included
 
-Designed & Developed with 💙 by Paul Kirubakaran M
+- 🔐 **Password Strength Analysis** — Evaluates length, uppercase, lowercase, numbers & symbols
+- ⏱️ **Crack Time Estimator** — Shows estimated brute-force crack duration
+- ⚠️ **Interactive Feedback** — Real-time tips to strengthen weak passwords
+- 💡 **Cybersecurity Safety Tips** — Best practices to protect your accounts
+- 🌌 **Cyberpunk UI** — Glitch effects, neon colors, animated background
+- 📱 **Responsive Design** — Seamless experience on desktop and mobile
+
+---
+
+## 📋 How to Use
+
+1. Enter your password in the input field
+2. Click **"ANALYZE"**
+3. View your strength rating, feedback, and estimated crack time
+4. Follow the tips to level up your password security
+
+---
+
+## 🔧 Deployment via GitHub Pages
+
+This project is hosted using [GitHub Pages](https://pages.github.com/), a free and reliable hosting solution directly from your GitHub repository.
+
+---
+
+## 📧 Connect With Me
+
+- 🔗 [Linktree](https://linktr.ee/paulkirubakaranm6)
+- 💼 [LinkedIn](https://www.linkedin.com/in/paul-kirubakaran-m-9b35a1373/)
+- 🐙 [GitHub](https://github.com/paulkirubakaranm6)
+- 📝 [Medium](https://medium.com/@paulkirubakaranm6)
+- 🛡️ [TryHackMe](https://tryhackme.com/p/paulkirubakaranm6)
+- 🎖️ [Credly](https://www.credly.com/users/paul-kirubakaran-m)
+
+---
+
+> Designed & Developed with 💙 by **Paul Kirubakaran M**
