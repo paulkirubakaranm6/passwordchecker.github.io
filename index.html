@@ -1,26 +1,44 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Cyber Password Checker</title>
+  <meta charset="UTF-8">
+  <title>Cyber Password Strength Checker</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+<!-- Animated neon background -->
 <div class="background"></div>
 
 <div class="container">
-  <h1 class="glitch">CYBER CHECK</h1>
+  <h1 class="glitch">CYBER PASSWORD CHECKER</h1>
 
-  <input type="password" id="password" placeholder="Enter password...">
+  <p class="intro">Check your password strength and learn how to stay safe online!</p>
 
+  <input type="password" id="password" placeholder="Enter your password...">
   <button onclick="checkPassword()">ANALYZE</button>
 
+  <!-- Strength bar -->
   <div class="bar">
     <div id="strength-bar"></div>
   </div>
 
   <h2 id="strength"></h2>
   <p id="feedback"></p>
+  <p id="crack-time"></p>
+
+  <!-- Security tips -->
+  <div class="tips">
+    <h2>Cyber Safety Tips</h2>
+    <ul>
+      <li>Use at least 12 characters for your passwords.</li>
+      <li>Include uppercase, lowercase, numbers, and symbols.</li>
+      <li>Never reuse passwords across different sites.</li>
+      <li>Enable two-factor authentication (2FA) wherever possible.</li>
+      <li>Use a reputable password manager to store your passwords securely.</li>
+      <li>Be cautious of phishing emails and suspicious links.</li>
+    </ul>
+  </div>
 </div>
 
 <script src="script.js"></script>
